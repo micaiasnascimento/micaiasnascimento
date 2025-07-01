@@ -1,5 +1,5 @@
 # ☕ Micaias Nascimento
-**`Software Engineering`** & **`Dev Full stack Python`**
+**`Desenvolvedor Back-End`** & **`SQL Specialist`**
 
 <details>
   <summary>👨‍💻 Sobre mim</summary>
