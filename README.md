@@ -3,7 +3,7 @@
 
 <details>
   <summary>👨‍💻 Quem sou </summary>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 Me chamo Micaias, sou entusiasta apaixonado por tecnologia, física, astronomia e pelo espaço, estou em constante evolução. Concluí o <a href="https://www.dio.me/bootcamp/suzano-python-developer" target="_blank">Bootcamp Suzano Python Developer</a> pela <a href="https://www.dio.me" target="_blank">DIO</a>, onde aprofundei meus conhecimentos em Python, orientação a objetos, estruturas de dados e desenvolvimento backend. Tenho experiência com sistemas desktop e web (ERP, PDV), redes e bancos de dados SQL. Atuei em projetos acadêmicos e profissionais envolvendo sites, sistemas e aplicações. Participei da comunidade <a href="https://www.programar.com.vc/programarComVoce.html" target="_blank">Programar com Você</a>, colaborando e trocando aprendizados com outros desenvolvedores.
 
 </details>
