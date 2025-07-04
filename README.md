@@ -1,13 +1,6 @@
 # ☕ Micaias Nascimento
 **`Desenvolvedor Back-End`** | **`SQL Specialist`**
 
-🎓 Cursando Engenharia de Software na <a href="https://www.escoladnc.com.br/" target="_blank"> DNC</a> e Engenharia da Computação na <a href="https://www.descomplica.com.br/faculdade/" target="_blank"> Descomplica</a><br>
-🚀 Buscando colaborar em projetos open source e startups tech<br>
-🔧 Aberto a trocar experiências sobre testes, CI/CD e arquitetura escalável<br>
-📚 Estudando neste momento: JavaScript (React, Next.js), Python, Kotlin, e Delphi<br>
-💬 Fale comigo sobre APIs, web, SQL e sistemas completos<br>
-🌌 Curiosidade: Amo tecnologia, espaço e FPV drone<br>
-
 <details>
   <summary>👨‍💻 Quem sou </summary>
 
@@ -15,11 +8,38 @@ Me chamo Micaias, sou entusiasta apaixonado por tecnologia, física e astronomia
 
 </details>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+🎓 Cursando Engenharia de Software na <a href="https://www.escoladnc.com.br/" target="_blank"> DNC</a> e Engenharia da Computação na <a href="https://www.descomplica.com.br/faculdade/" target="_blank"> Descomplica</a><br>
+🚀 Buscando colaborar em projetos open source e startups tech<br>
+🔧 Aberto a trocar experiências sobre testes, CI/CD e arquitetura escalável<br>
+📚 Estudando neste momento: JavaScript (React, Next.js), Python, Kotlin, e Delphi<br>
+💬 Fale comigo sobre APIs, web, SQL e sistemas completos<br>
+
+</p>
+
+---
+
+### 🤖 Tecnologias que uso
+ 
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px; filter: brightness(130%)" src="https://cdn.simpleicons.org/django/1C813F" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/html5/E34F26" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/css3/1572B6" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/react/61DAFB" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
+<img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/vue.js/4FC08D" />
+<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/kotlin/7F52FF" />
+<img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/mysql/4479A1" />
+<img align="left" alt="Delphi" title="Delphi" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/delphi/F80000" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/git/F05032" />
 
 
-## 📊 Estatísticas:
+<br>
+<br>
+
+### 📊 Estatísticas do GitHub
 <table>
   <tr>
     <td>
@@ -30,6 +50,8 @@ Me chamo Micaias, sou entusiasta apaixonado por tecnologia, física e astronomia
     </td>
   </tr>
 </table>
+
+
 
 
 ---
