@@ -23,16 +23,8 @@ Me chamo Micaias, sou entusiasta apaixonado por tecnologia, física e astronomia
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px; filter: brightness(130%)" src="https://cdn.simpleicons.org/django/1C813F" />
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/html5/E34F26" />
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/css3/1572B6" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/react/61DAFB" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
-<img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/vue.js/4FC08D" />
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/kotlin/7F52FF" />
-<img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img align="left" alt="Delphi" title="Delphi" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/delphi/F80000" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px" src="https://cdn.simpleicons.org/git/F05032" />
 
 
