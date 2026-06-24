@@ -1,6 +1,5 @@
 # ☕ Micaias Nascimento
-**`Desenvolvedor Back-End`** | **`SQL Specialist`**
-
+a  **`Python Backend Developer`** | **`Analista de suporte Sênior`** | **`Database Specialist (SQL Server)`** 
 <details>
   <summary>👨‍💻 Quem sou </summary>
 
@@ -8,13 +7,6 @@ Me chamo Micaias, sou entusiasta apaixonado por tecnologia, física e astronomia
 
 </details>
 
-🎓 Cursando Engenharia de Software na <a href="https://www.escoladnc.com.br/" target="_blank"> DNC</a> e Engenharia da Computação na <a href="https://www.descomplica.com.br/faculdade/" target="_blank"> Descomplica</a><br>
-🚀 Buscando colaborar em projetos open source e startups tech<br>
-🔧 Aberto a trocar experiências sobre testes, CI/CD e arquitetura escalável<br>
-📚 Estudando neste momento: JavaScript (React, Next.js), Python, Kotlin, e Delphi<br>
-💬 Fale comigo sobre APIs, web, SQL e sistemas completos<br>
-
-</p>
 
 ---
 
